@@ -1,0 +1,181 @@
+
+Static libraries: 
+______________________________
+#### Dynamic Array ####
+***** Make Time: *****
+Real time: 0.066269
+User time: 0.062000
+System time: 0.000000
+
+Block at index 3383 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.031206
+User time: 0.031000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.000062
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002453
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.002460
+User time: 0.000000
+System time: 0.000000
+
+
+#### StaticArray ####
+***** Make Time: *****
+Real time: 0.072931
+User time: 0.046000
+System time: 0.000000
+
+Block at index 519 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.030002
+User time: 0.032000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.001464
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002372
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.003807
+User time: 0.015000
+System time: 0.000000
+
+
+Dynamic libraries: 
+______________________________
+#### Dynamic Array ####
+***** Make Time: *****
+Real time: 0.069937
+User time: 0.078000
+System time: 0.000000
+
+Block at index 1425 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.030862
+User time: 0.031000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.000051
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002569
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.002609
+User time: 0.000000
+System time: 0.000000
+
+
+#### StaticArray ####
+***** Make Time: *****
+Real time: 0.075022
+User time: 0.078000
+System time: 0.000000
+
+Block at index 2147 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.031431
+User time: 0.031000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.001991
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002494
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.003975
+User time: 0.000000
+System time: 0.000000
+
+
+Shared libraries: 
+______________________________
+#### Dynamic Array ####
+***** Make Time: *****
+Real time: 0.068859
+User time: 0.062000
+System time: 0.000000
+
+Block at index 1006 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.034915
+User time: 0.047000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.000046
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002426
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.002606
+User time: 0.000000
+System time: 0.000000
+
+
+#### StaticArray ####
+***** Make Time: *****
+Real time: 0.077585
+User time: 0.062000
+System time: 0.000000
+
+Block at index 2438 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.029718
+User time: 0.031000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.001504
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002267
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.003862
+User time: 0.016000
+System time: 0.000000
+
+

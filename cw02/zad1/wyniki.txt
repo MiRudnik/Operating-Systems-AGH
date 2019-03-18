@@ -1,0 +1,109 @@
+
+*****4bytes*****
+Copy_sys 4000 records of 4 size: 
+User time: 0.000000 	System time: 0.000000
+
+Copy_lib 4000 records of 4 size: 
+User time: 0.000000 	System time: 0.000000
+
+Sort_sys 4000 records of 4 size: 
+User time: 1.270000 	System time: 5.940000
+
+Sort_lib 4000 records of 4 size: 
+User time: 1.990000 	System time: 7.360000
+
+Copy_sys 5000 records of 4 size: 
+User time: 0.000000 	System time: 0.000000
+
+Copy_lib 5000 records of 4 size: 
+User time: 0.000000 	System time: 0.000000
+
+Sort_sys 5000 records of 4 size: 
+User time: 1.960000 	System time: 9.830000
+
+Sort_lib 5000 records of 4 size: 
+User time: 3.190000 	System time: 10.730000
+
+
+*****512bytes*****
+Copy_sys 4000 records of 512 size: 
+User time: 0.000000 	System time: 0.000000
+
+Copy_lib 4000 records of 512 size: 
+User time: 0.000000 	System time: 0.000000
+
+Sort_sys 4000 records of 512 size: 
+User time: 1.290000 	System time: 5.710000
+
+Sort_lib 4000 records of 512 size: 
+User time: 2.060000 	System time: 6.460000
+
+Copy_sys 5000 records of 512 size: 
+User time: 0.000000 	System time: 0.010000
+
+Copy_lib 5000 records of 512 size: 
+User time: 0.000000 	System time: 0.000000
+
+Sort_sys 5000 records of 512 size: 
+User time: 1.780000 	System time: 9.040000
+
+Sort_lib 5000 records of 512 size: 
+User time: 3.130000 	System time: 10.550000
+
+
+*****4096bytes*****
+Copy_sys 4000 records of 4096 size: 
+User time: 0.000000 	System time: 0.010000
+
+Copy_lib 4000 records of 4096 size: 
+User time: 0.000000 	System time: 0.010000
+
+Sort_sys 4000 records of 4096 size: 
+User time: 1.270000 	System time: 7.300000
+
+Sort_lib 4000 records of 4096 size: 
+User time: 1.420000 	System time: 7.590000
+
+Copy_sys 5000 records of 4096 size: 
+User time: 0.000000 	System time: 0.010000
+
+Copy_lib 5000 records of 4096 size: 
+User time: 0.000000 	System time: 0.010000
+
+Sort_sys 5000 records of 4096 size: 
+User time: 1.720000 	System time: 12.390000
+
+Sort_lib 5000 records of 4096 size: 
+User time: 2.310000 	System time: 12.440000
+
+
+*****8192bytes*****
+Copy_sys 4000 records of 8192 size: 
+User time: 0.000000 	System time: 0.020000
+
+Copy_lib 4000 records of 8192 size: 
+User time: 0.000000 	System time: 0.030000
+
+Sort_sys 4000 records of 8192 size: 
+User time: 1.090000 	System time: 11.430000
+
+Sort_lib 4000 records of 8192 size: 
+User time: 1.340000 	System time: 11.580000
+
+Copy_sys 5000 records of 8192 size: 
+User time: 0.000000 	System time: 0.030000
+
+Copy_lib 5000 records of 8192 size: 
+User time: 0.000000 	System time: 0.030000
+
+Sort_sys 5000 records of 8192 size: 
+User time: 1.880000 	System time: 18.090000
+
+Sort_lib 5000 records of 8192 size: 
+User time: 2.290000 	System time: 18.290001
+
+_________
+Funkcje systemowe zawsze wykonywały się szybciej niż biblioteczne.
+Sortowania trwały o wiele dłużej ze względu na złożoność obliczeniową ich implementacji
+(proste wstawianie).
+

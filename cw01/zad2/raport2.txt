@@ -1,0 +1,59 @@
+
+#### Dynamic Array ####
+***** Make Time: *****
+Real time: 0.070046
+User time: 0.078000
+System time: 0.000000
+
+Block at index 1316 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.031116
+User time: 0.031000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.000045
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002697
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.002564
+User time: 0.000000
+System time: 0.000000
+
+
+#### StaticArray ####
+***** Make Time: *****
+Real time: 0.076433
+User time: 0.046000
+System time: 0.031000
+
+Block at index 4299 is closest in value to block at index 2.
+
+***** Search Time: *****
+Real time: 0.033038
+User time: 0.032000
+System time: 0.000000
+
+***** Remove Time: *****
+Real time: 0.001607
+User time: 0.000000
+System time: 0.000000
+
+***** Add Time: *****
+Real time: 0.002541
+User time: 0.000000
+System time: 0.000000
+
+***** Remove and Add Time: *****
+Real time: 0.005294
+User time: 0.000000
+System time: 0.000000
+
+

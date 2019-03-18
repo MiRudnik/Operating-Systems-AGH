@@ -1,0 +1,3 @@
+5 5 50 PanTadeusz.txt 100 1 0 0
+P, K, N, nazwa pliku, L, tryb wyszukiwania, tryb wypisywania informacji, nk
+oddzielone spacjami, tylko w pierwszej linii

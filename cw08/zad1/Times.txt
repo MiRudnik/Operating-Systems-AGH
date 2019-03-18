@@ -1,0 +1,25 @@
+
+File size: 512x512. Filter size: 3.
+	 Time needed to filter a picture: 0.106436.
+
+File size: 512x512. Filter size: 25.
+	 Time needed to filter a picture: 4.845344.
+
+File size: 512x512. Filter size: 3.
+	 Time needed to filter a picture: 0.044743.
+
+File size: 512x512. Filter size: 25.
+	 Time needed to filter a picture: 2.568100.
+
+File size: 512x512. Filter size: 3.
+	 Time needed to filter a picture: 0.022636.
+
+File size: 512x512. Filter size: 25.
+	 Time needed to filter a picture: 1.278422.
+
+File size: 512x512. Filter size: 3.
+	 Time needed to filter a picture: 0.016084.
+
+File size: 512x512. Filter size: 25.
+	 Time needed to filter a picture: 0.751477.
+
